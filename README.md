@@ -5,10 +5,12 @@ Welcome to the personal website of Kian Baghernejad — a curious Kid who lives 
 He also loves swimming 🏊‍♂️ and dreams of working with amazing German car companies 🚗 someday. This website is a space to share his favorite things, learning journey, and maybe even his future ideas as an engineer in training! 🛠️🚀
 
 ---
+# Schlangenbaum!
 
 <div align="center">
   <img src="public/images/schlangenbaum.jpg" alt="Kian Baghernejad- Schlangenbaum" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <p><em>Schlangenbaum 🌳 — a fictional group Kian is proud to be a part of, inspired by the book by Uwe Timm.</em></p>
+  <p><em>Schlangenbaum 🌳 — a fictional group Kian is proud to be a part of, inspired by the book by Uwe Timm. <br>
+  Our motto: "Rooted in Values, Growing with Purpose, and Branching Out to Life."<br> Everyone is welcome to join and be part of this journey!</em></p>
 </div>
 
 ---
