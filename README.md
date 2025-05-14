@@ -7,7 +7,7 @@ He also loves swimming 🏊‍♂️ and dreams of working with amazing German c
 ---
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Araucaria_araucana_ArboretumMT_2.jpg/800px-Araucaria_araucana_ArboretumMT_2.jpg" alt="Kian Baghernejad- Schlangenbaum" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="public/images/schlangenbaum.jpg" alt="Kian Baghernejad- Schlangenbaum" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <p><em>Schlangenbaum 🌳 — a fictional group Kian is proud to be a part of, inspired by the book by Uwe Timm.</em></p>
 </div>
 
